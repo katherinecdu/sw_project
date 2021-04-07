@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/package_katherinecdu.egg-info/PKG-INFO
+src/package_katherinecdu.egg-info/SOURCES.txt
+src/package_katherinecdu.egg-info/dependency_links.txt
+src/package_katherinecdu.egg-info/top_level.txt
+src/sw_project/__init__.py
+src/sw_project/hw1.py

@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: package-katherinecdu
+Version: 0.0.1
+Summary: Smith-Waterman Algorithm
+Home-page: https://github.com/katherinecdu/package
+Author: Katherine Du
+Author-email: katherine.du@yale.edu
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/katherinecdu/package/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # Smith-Waterman Algorithm
 
 This program is an implementation of the Smith-Waterman Algorithm. 
@@ -13,7 +29,7 @@ MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASEDLKKHGATVLTALGGILKKK
 VLKCWGPMEADYATHGGLVLTRLFTEHPETLKLFPKFAGIAHGDLAGDAGVSAHGATVLNKLGDLLKARGAHAALLKPLSSSHATKHKIPIINFKLIAEVIGKVMEEKAG
 
 **Example Output** output.txt
-    
+
 -----------
 |Sequences|
 -----------
@@ -144,3 +160,5 @@ Alignment Results:
 MGLSDGEWQL(VLNVWGKVEADIPGHGQEVLIRLFKGHPETLEK-FDKF---KHLKSEDEMKASED--LKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEF--ISECII-QVLQSKHPG)DFGADAQGAMNKALELFRKDMASNYKELGFQG
            ||  ||  |||   ||  || |||  ||||| | | ||    |    |   |  |     ||||||  ||  ||  | | |  |||  |||||||||     |  | |  |  |   |  |                                 
           (VLKCWGPMEADYATHGGLVLTRLFTEHPETL-KLFPKFAGIAH--G-D-L-AG-DAGVSAHGATVLNKLGDLLKARGAHAALLKPLSSSHATKHKIPI--INFKLIAE-VIGKVMEEK-AG)                                
+
+
