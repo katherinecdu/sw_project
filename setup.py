@@ -1,5 +1,5 @@
 import setuptools
-if _name_ == '_main_':
+if __name__ == '__main__':
     setuptools.setup(
     scripts=['src/sw_project/hw1.py']
     )
