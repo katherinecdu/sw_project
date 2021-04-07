@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/sw_project/__init__.py
+src/sw_project/hw1.py
+src/sw_project.egg-info/PKG-INFO
+src/sw_project.egg-info/SOURCES.txt
+src/sw_project.egg-info/dependency_links.txt
+src/sw_project.egg-info/top_level.txt
