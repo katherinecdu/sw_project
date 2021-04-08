@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    scripts=['hw1.py','blosum62.txt','input.txt'],
+    scripts=['hw1.py'],
     name="sw_project",
     version="0.0.1"
 )
