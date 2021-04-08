@@ -14,6 +14,8 @@ Input files:
 
 ```wget https://raw.githubusercontent.com/katherinecdu/sw_project/main/blosum62.txt```
 
+Output files: program outputs as ```output.txt```
+
 **Code Example:**
 
 Usage:
