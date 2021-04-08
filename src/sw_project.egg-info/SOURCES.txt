@@ -1,7 +1,6 @@
 README.md
 pyproject.toml
 setup.cfg
-setup.py
 src/sw_project/__init__.py
 src/sw_project/hw1.py
 src/sw_project.egg-info/PKG-INFO
