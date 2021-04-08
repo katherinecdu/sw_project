@@ -7,6 +7,8 @@ This program is an implementation of the Smith-Waterman Algorithm.
 ```python3 -m pip install git+https://github.com/katherinecdu/sw_project.git```
 
 Input files:
+
+
 ```wget https://raw.githubusercontent.com/katherinecdu/sw_project/main/input.txt```
 
 
