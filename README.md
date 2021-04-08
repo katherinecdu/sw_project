@@ -8,6 +8,8 @@ This program is an implementation of the Smith-Waterman Algorithm.
 
 Input files:
 ```wget https://raw.githubusercontent.com/katherinecdu/sw_project/main/input.txt```
+
+
 ```wget https://raw.githubusercontent.com/katherinecdu/sw_project/main/blosum62.txt```
 
 **Code Example:**
