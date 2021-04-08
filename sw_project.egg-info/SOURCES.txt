@@ -1,5 +1,7 @@
 README.md
+blosum62.txt
 hw1.py
+input.txt
 setup.py
 sw_project.egg-info/PKG-INFO
 sw_project.egg-info/SOURCES.txt
