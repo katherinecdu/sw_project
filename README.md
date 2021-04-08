@@ -4,16 +4,22 @@ This program is an implementation of the Smith-Waterman Algorithm.
 
 **Code Example:** 
 
-Usage: python hw1.py -i <input file> -s <score file>
-Example: python hw1.py -i input.txt -s blosum62.txt
+Usage: 
+```python hw1.py -i <input file> -s <score file>```
 
-**Example Input** input.txt
+Example: 
+```python hw1.py -i input.txt -s blosum62.txt```
 
+**Example Input** ```input.txt```
+
+```
 MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASEDLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKHPGDFGADAQGAMNKALELFRKDMASNYKELGFQG
 VLKCWGPMEADYATHGGLVLTRLFTEHPETLKLFPKFAGIAHGDLAGDAGVSAHGATVLNKLGDLLKARGAHAALLKPLSSSHATKHKIPIINFKLIAEVIGKVMEEKAG
+```
 
-**Example Output** output.txt
-    
+**Example Output** ```output.txt```
+
+```
 -----------
 |Sequences|
 -----------
@@ -144,3 +150,4 @@ Alignment Results:
 MGLSDGEWQL(VLNVWGKVEADIPGHGQEVLIRLFKGHPETLEK-FDKF---KHLKSEDEMKASED--LKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEF--ISECII-QVLQSKHPG)DFGADAQGAMNKALELFRKDMASNYKELGFQG
            ||  ||  |||   ||  || |||  ||||| | | ||    |    |   |  |     ||||||  ||  ||  | | |  |||  |||||||||     |  | |  |  |   |  |                                 
           (VLKCWGPMEADYATHGGLVLTRLFTEHPETL-KLFPKFAGIAH--G-D-L-AG-DAGVSAHGATVLNKLGDLLKARGAHAALLKPLSSSHATKHKIPI--INFKLIAE-VIGKVMEEK-AG)                                
+```
