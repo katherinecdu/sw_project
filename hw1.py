@@ -24,9 +24,9 @@ parser = argparse.ArgumentParser(description='Smith-Waterman Algorithm')
 parser.add_argument('-i', '--input', help='input file', required=True)
 parser.add_argument('-s', '--score', help='score file', required=True)
 parser.add_argument('-o', '--opengap', help='open gap', required=False,
-default=-2)
+default=-2, type=int)
 parser.add_argument('-e', '--extgap', help='extension gap', required=False,
-default=-1)
+default=-1, type=int)
 args = parser.parse_args()
 
 arr_seq = np.array([])
